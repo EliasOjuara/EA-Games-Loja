@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "GTA",
+      "descricao": "Game mais jogado",
+      "foto": "GTA.png",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "God of War",
+      "descricao": "Jogo dos deuses",
+      "foto": "GOW.png",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "CSGO",
+      "descricao": "Melhor jogo militar ",
+      "foto": "CSGO.png",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Jogo Modificado",
+      "descricao": "Descrição do Jogo Modificado",
+      "foto": "jogo1.PNG",
+      "preco": 200
+    }
+  ]
+}
